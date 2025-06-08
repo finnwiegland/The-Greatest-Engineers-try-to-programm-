@@ -1,0 +1,4 @@
+MONGO_DB_NAME = 'exercise_1'
+MONGO_DB_ADMIN = 'root'
+MONGO_DB_PASSWORD = 'example'
+MONGO_ADDRESS = f'mongodb://{MONGO_DB_ADMIN}:{MONGO_DB_PASSWORD}@127.0.0.1:27017/'
